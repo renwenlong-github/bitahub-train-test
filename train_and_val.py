@@ -30,7 +30,7 @@ IMG_H = 208
 RATIO = 0.2     # take 20% of dataset as validation data
 BATCH_SIZE = 64
 CAPACITY = 2000
-MAX_STEP = 3000 # with current parameters, it is suggested to use MAX_STEP>10k
+MAX_STEP = 300 # with current parameters, it is suggested to use MAX_STEP>10k
 learning_rate = 0.0001 # with current parameters, it is suggested to use learning rate<0.0001
 
 
